@@ -4,10 +4,10 @@ Aplikasi ini akan membantu anda dalam menemukan, mencari dan melihat kinerja ins
 Dengan desain dan tampilan yang simple. user tidak akan kebingunan dalam menggunakan aplikasi tersebut. 
 
 MAIN FEATURES:
-N/A
+COOMING SOON
 
 Steps to Use:
-N/A
+COOMING SOON
 
 Disclaimer:
 N/A
